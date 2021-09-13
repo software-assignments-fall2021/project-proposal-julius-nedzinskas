@@ -15,7 +15,7 @@ The platform would solve the following issues:
 - Global warming (contribution to the "greener" society - second-hand markets extend the lifetime of electronics and hardly recycable items)
 
 ### For whom?
-Such platform would be perfect for students, but also for humble New Yorkers. Well suited for a densely populated cities like New York.
+Such platform would be perfect for students, but also for humble New Yorkers. Well suited for densely populated cities like New York.
 
 ### How?
 #### Listing
